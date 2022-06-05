@@ -1,4 +1,4 @@
-# bookstore-rails-api
+# bookstore-api
 
 ## technologies used
 
