@@ -36,7 +36,7 @@ Testing screenshots
   <img width="1305" alt="Screen Shot 2022-06-05 at 3 31 50 PM" src="https://user-images.githubusercontent.com/5721135/172070212-55d42ce6-9199-4e34-a428-b7b6ee12adfa.png">
 </details>
 <details>
-  <summary>Signup using same email address</summary>
+  <summary>Signup using existing email address</summary>
   <img width="1311" alt="Screen Shot 2022-06-05 at 3 33 31 PM" src="https://user-images.githubusercontent.com/5721135/172070214-e896cf1a-5ad1-43eb-815a-a919b1ed01fc.png">
 </details>
 <details>
